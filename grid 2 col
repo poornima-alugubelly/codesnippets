@@ -1,0 +1,14 @@
+<div class="grid-2-col">
+	<div class="img-container">
+		<img
+			src="../../assets/images/bannerimg.png"
+			alt="img-default"
+			class="img-responsive"
+		/>
+	</div>
+
+	<div class="grid-sample-child flex-center">
+		<h1>50% off on all brands</h1>
+		<p>Sales from 22nd to 31st March</p>
+	</div>
+</div>
