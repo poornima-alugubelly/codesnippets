@@ -1,0 +1,17 @@
+<nav class="nav-bar one-edge-shadow">
+	<ul class="nav-bar-links">
+		<a href="#" class="nav-bar-logo">ASIMOV</a>
+		<li><a href="#" class="link-text">Home</a></li>
+		<div class="dropdown-container">
+			<button class="btn-dropdown link-text btn-with-icon">
+				<span>Shop now</span>
+				<i class="fas fa-chevron-down icon-dropdown"></i>
+			</button>
+			<ul class="drop-down">
+				<li class="list-item"><a href="#">Cyberpunk</a></li>
+				<li class="list-item"><a href="#">Space Opera</a></li>
+				<li class="list-item"><a href="#">Time Travel</a></li>
+			</ul>
+		</div>
+	</ul>
+</nav>
