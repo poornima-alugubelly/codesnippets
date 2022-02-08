@@ -1,0 +1,9 @@
+<div class="card card-content padding-s">
+	<p>
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias veniam odio
+		possimus minus, sint officia placeat doloremque explicabo quam officiis.
+	</p>
+	<div class="card-footer">
+		<button class="btn btn-primary-solid">Read More</button>
+	</div>
+</div>
