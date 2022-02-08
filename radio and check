@@ -1,0 +1,30 @@
+<label for="radio-input-1" class="flex-row gap-s">
+    <input
+        type="radio"
+        class="input-radio element-round"
+        id="radio-input-1"
+        name="radio-item"
+    />
+
+    <span>Blue Pill</span>
+</label>
+<label for="radio-input-2" class="flex-row gap-s">
+    <input
+        type="radio"
+        class="input-radio element-round"
+        id="radio-input-2"
+        name="radio-item"
+    />
+    <span>Red Pill</span>
+</label>
+
+<label for="checkbox-input" class="flex-row gap-s">
+    <input
+        type="checkbox"
+        name="checkbox"
+        id="checkbox-input"
+        class="input-checkbox"
+    />
+    Checkbox
+</label>
+</div>
