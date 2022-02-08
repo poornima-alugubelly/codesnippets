@@ -1,0 +1,34 @@
+<form action="" class="form-container" novalidate>
+	<label for="username-input" class="form-required-field"> Username</label>
+
+	<input
+		type="text"
+		class="input input-validation"
+		id="username-input"
+		placeholder="Enter username"
+		required
+	/>
+	<span class="form-error-msg">Required</span>
+	<label for="email-input"> </label>
+	Email
+	<input
+		type="email"
+		class="input input-validation"
+		id="email-input"
+		placeholder="Enter Email"
+		required
+	/>
+	<span class="form-error-msg">Enter valid Email</span>
+
+	<label for="email-password"> Password </label>
+	<input
+		type="password"
+		class="input input-validation"
+		id="email-password"
+		pattern="^.{8,}$"
+		required
+		placeholder="Enter Password"
+	/>
+
+	<span class="form-error-msg">Password must have atleast 8 characters</span>
+</form>
