@@ -1,0 +1,12 @@
+<!-- Slider -->
+
+<div class="slider-container">
+	<input type="range" name="" class="slider" min="0" max="100" />
+</div>
+
+<!-- Slider with icon -->
+
+<div class="slider-container btn-icon">
+	<i class="fas fa-volume-up"></i>
+	<input type="range" name="" class="slider" min="0" max="100" />
+</div>
