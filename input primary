@@ -1,0 +1,12 @@
+<textarea
+	class="text-area"
+	name=""
+	id=""
+	cols="30"
+	rows="10"
+	class="text-area"
+	placeholder="Write a comment..."
+></textarea>
+<input type="text" class="input" placeholder="Enter text" />
+<input type="number" class="input" placeholder="Enter Number" />
+<input type="password" class="input" placeholder="Enter password" />
