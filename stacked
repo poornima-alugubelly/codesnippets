@@ -1,0 +1,34 @@
+<ul>
+	<li class="stackedlist-container list-item">
+		<div class="img-container">
+			<img
+				src="../../assets/SVG/avatargirl.svg"
+				alt="profile picture"
+				class="img-responsive img-round"
+			/>
+		</div>
+		<div>
+			<h3>Yayy! Gettin' famous</h3>
+			<p>There was a like on your post!</p>
+		</div>
+		<div>
+			<span>1min ago</span>
+		</div>
+	</li>
+	<li class="stackedlist-container list-item">
+		<div class="img-container">
+			<img
+				src="../../assets/SVG/avatargirl.svg"
+				alt="profile picture"
+				class="img-responsive img-round"
+			/>
+		</div>
+		<div>
+			<h3>You might be interested in this</h3>
+			<p>Students of Neog have once again broke records...</p>
+		</div>
+		<div>
+			<span>1hr ago</span>
+		</div>
+	</li>
+</ul>
