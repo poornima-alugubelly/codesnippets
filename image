@@ -1,0 +1,14 @@
+<div class="img-container">
+	<img
+		src="../../assets/images/bannerimg.png"
+		alt="responsive image"
+		class="img-responsive"
+	/>
+</div>
+<div class="img-container">
+	<img
+		src="../../assets/images/dune.jpg"
+		alt="responsive image"
+		class="img-responsive element-round"
+	/>
+</div>
