@@ -1,0 +1,7 @@
+<button class="btn btn-primary-solid btn-disabled">Primary</button>
+<button class="btn btn-primary-outline btn-disabled">Secondary</button>
+<a href="#" class="link-text btn-disabled">Button link</a>
+<button class="btn btn-primary-solid btn-with-icon btn-disabled">
+	<i class="fa-fw fas fa-shopping-cart"> </i>
+	<span>Add to Cart</span>
+</button>
