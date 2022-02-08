@@ -1,0 +1,9 @@
+<nav class="nav-bar one-edge-shadow">
+	<div class="nav-bar-primary">
+		<ul class="nav-bar-links">
+			<a href="#" class="nav-bar-logo">ASIMOV</a>
+			<li><a href="#" class="link-text">Home</a></li>
+			<li><a href="#" class="link-text">Shop Now</a></li>
+		</ul>
+	</div>
+</nav>
