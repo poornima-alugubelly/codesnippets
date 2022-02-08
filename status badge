@@ -1,0 +1,25 @@
+<div class="avatar avatar-xl badge-wrapper">
+	<img
+		class="avatar-round"
+		src="../../assets/SVG/avatargirl.svg"
+		alt="avatar image"
+	/>
+	<span class="badge badge-status badge-green"></span>
+</div>
+<div class="avatar avatar-l badge-wrapper">
+	<img
+		class="avatar-round"
+		src="../../assets/SVG/avatargirl.svg"
+		alt="avatar image"
+	/>
+	<span class="badge badge-status badge-red"></span>
+</div>
+
+<div class="avatar avatar-m badge-wrapper">
+	<img
+		class="avatar-round"
+		src="../../assets/SVG/avatargirl.svg"
+		alt="avatar image"
+	/>
+	<span class="badge badge-status badge-yellow"></span>
+</div>
