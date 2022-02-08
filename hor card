@@ -1,0 +1,40 @@
+<div class="card card-horizontal padding-s">
+	<div class="img-container">
+		<img
+			src="../../assets/images/darthvader.jpg"
+			alt="product image"
+			class="img-responsive"
+		/>
+	</div>
+
+	<div class="card-content">
+		<h2 class="card-title">Lorem ipsum</h2>
+
+		<span
+			>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates
+			ipsum vero alias voluptas ipsam aspernatur, molestiae explicabo laudantium
+			sed quo quisquam necessitatibus libero sapiente! Cumque odit aspernatur
+			earum non cupiditate.</span
+		>
+
+		<div class="gap-s">
+			<span class="txt-bold"> Rs.899</span>
+			<span class="txt-crossed-off">Rs.999</span>
+			<span class="txt-high-light">10%</span>
+		</div>
+		<div class="card-footer">
+			<button class="btn btn-primary-solid">
+				<i class="fa-fw fas fa-shopping-cart"> </i>
+				<span>Add to Cart</span>
+			</button>
+			<button class="btn btn-primary-outline">
+				<i class="fa-fw fas fa-shopping-cart"> </i>
+				<span>Move to wishlist</span>
+			</button>
+		</div>
+	</div>
+	<span class="tag">New!</span>
+	<button class="btn btn-dismiss item-top">
+		<img src="../../assets/SVG/dismiss-blue.svg" alt="" />
+	</button>
+</div>
