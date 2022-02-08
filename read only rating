@@ -1,0 +1,22 @@
+<div class="rating-star-container">
+	<label>
+		<input type="radio" value="1" name="radio" />
+		<i class="fas fa-star rating-star-icon"></i>
+	</label>
+	<label>
+		<input type="radio" value="2" name="radio" />
+		<i class="fas fa-star rating-star-icon"></i>
+	</label>
+	<label>
+		<input type="radio" value="3" name="radio" />
+		<i class="fas fa-star rating-star-icon"></i>
+	</label>
+	<label>
+		<input type="radio" value="4" name="radio" />
+		<i class="far fa-star rating-star-icon"></i>
+	</label>
+	<label>
+		<input type="radio" value="5" name="radio" />
+		<i class="far fa-star rating-star-icon"></i>
+	</label>
+</div>
