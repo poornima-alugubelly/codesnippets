@@ -1,0 +1,20 @@
+<div class="badge-wrapper">
+	<span> this is text with badge</span>
+	<span class="badge badge-text badge-top badge-s badge-red">11</span>
+</div>
+
+<div class="badge-wrapper">
+	<span>this is text with large badge</span>
+
+	<span class="badge badge-text badge-top badge-lg badge-red">11</span>
+</div>
+
+<div class="badge-wrapper">
+	<button class="btn btn-primary-solid">Action</button>
+
+	<span class="badge badge-top badge-s badge-red">11</span>
+</div>
+<div class="badge-wrapper">
+	<i class="fas fa-home fa-2x btn-icon"></i>
+	<span class="badge badge-top badge-s badge-red">11</span>
+</div>
