@@ -1,35 +1,33 @@
-					<nav class="nav-bar one-edge-shadow">
-						<a
-							href="#drawer-example"
-							class="toggle-btn drawer-toggle"
-							data-drawer-target="#drawer-example"
-						>
-							<span class="toggle-bar"></span>
-							<span class="toggle-bar"></span>
-							<span class="toggle-bar"></span>
-						</a>
-						<div class="nav-bar-primary">
-							<ul class="nav-bar-links flex-row">
-								<a href="#" class="nav-bar-logo">ASIMOV</a>
-								<li><a href="#" class="link-text">Home</a></li>
-								<li><a href="#" class="link-text">Shop Now</a></li>
-							</ul>
-						</div>
-						<ul class="drawer" id="drawer-example">
-							<div class="drawer-header">
-								<a href="../../index.html" class="nav-bar-logo">ASIMOV</a>
-								<button class="btn btn-dismiss">
-									<img src="../../assets/SVG/dismiss-blue.svg" alt="" />
-								</button>
-							</div>
+<nav class="nav-bar one-edge-shadow">
+	<a
+		href="#drawer-example"
+		class="toggle-btn drawer-toggle"
+		data-drawer-target="#drawer-example"
+	>
+		<span class="toggle-bar"></span>
+		<span class="toggle-bar"></span>
+		<span class="toggle-bar"></span>
+	</a>
+	<div class="nav-bar-primary">
+		<ul class="nav-bar-links flex-row">
+			<a href="#" class="nav-bar-logo">ASIMOV</a>
+			<li><a href="#" class="link-text">Home</a></li>
+			<li><a href="#" class="link-text">Shop Now</a></li>
+		</ul>
+	</div>
+	<ul class="drawer" id="drawer-example">
+		<div class="drawer-header">
+			<a href="../../index.html" class="nav-bar-logo">ASIMOV</a>
+			<button class="btn btn-dismiss">
+				<img src="../../assets/SVG/dismiss-blue.svg" alt="" />
+			</button>
+		</div>
 
-							<li class="list-item">
-								<a href="../../index.html" class="link-text">Home</a>
-							</li>
-							<li class="list-item">
-								<a href="../Alert/Alert.html" class="link-text"
-									>Documentation</a
-								>
-							</li>
-						</ul>
-					</nav>
+		<li class="list-item">
+			<a href="../../index.html" class="link-text">Home</a>
+		</li>
+		<li class="list-item">
+			<a href="../Alert/Alert.html" class="link-text">Documentation</a>
+		</li>
+	</ul>
+</nav>
