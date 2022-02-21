@@ -1,7 +1,12 @@
-<!-- Style sheet link -->
+<!-- Style sheet link for dark theme -->
 
 <link rel="stylesheet"
-href="https://asimov-ui.netlify.app/style.css" />
+href="https://asimov-ui.netlify.app/themes/darktheme.css" />
+
+<!-- Style sheet link for light theme -->
+
+<link rel="stylesheet"
+href="https://asimov-ui.netlify.app/themes/lighttheme.css" />
 
 <!-- Font Awesome Icons -->
 
